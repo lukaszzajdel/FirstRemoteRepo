@@ -1,3 +1,4 @@
 chleb 3.50
 jajka 6.00
 masło 7.52
+ryż   3.20
